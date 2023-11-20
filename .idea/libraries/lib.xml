@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Test_implementation (not final)/lib/orsonpdf-1.6-eval.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Test_implementation (not final)/lib/junit-4.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Test_implementation (not final)/lib/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Test_implementation (not final)/lib/hamcrest-core-1.3 2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Test_implementation (not final)/lib/jfreechart-1.0.19-experimental.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Test_implementation (not final)/lib/swtgraphics2d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Test_implementation (not final)/lib/jfreesvg-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Test_implementation (not final)/lib/servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Test_implementation (not final)/lib/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Test_implementation (not final)/lib/orsoncharts-1.4-eval-nofx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Test_implementation (not final)/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Test_implementation (not final)/lib/jfreechart-1.0.19-swt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Test_implementation (not final)/lib/junit-4.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
